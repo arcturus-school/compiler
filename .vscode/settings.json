@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "*.cjson": "jsonc",
+        "*.wxss": "css",
+        "*.wxs": "javascript",
+        "semantics.h": "c",
+        "types.h": "c",
+        "ast.h": "c",
+        "compare": "c",
+        "type_traits": "c",
+        "string.h": "c",
+        "typeinfo": "c",
+        "graph.h": "c",
+        "const.h": "c",
+        "common.h": "c",
+        "gvc.h": "c",
+        "intermediate.h": "c",
+        "stdio.h": "c"
+    }
+}
